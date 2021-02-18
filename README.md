@@ -1,4 +1,4 @@
-### Hi there 👋
+### Oii todo mundo!! 👋
 
 <!--
 **hayukimori/hayukimori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**Apresentação**
+Me chamam de hayu e... talvez você nunca tenha ouvido sobre mim, então contarei agora
+Trabalho em alguns projetos interessantes e tento estudar cada dia mais pra me tornar a melhor.
+
+**Redes Sociais**
+
+```
+Todas as redes sociais: @hayukimori
+email: hayukimori@gmail.com
+```
