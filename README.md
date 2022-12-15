@@ -1,6 +1,6 @@
 <div>
-<h1>Hayukimori Minamino</h1>
-<h4> Olá, meu nome é hayukimori, sou programadora Python há 2 anos, faço bots, interfaces em PyQT5 e adaptações de aplicativos
+<h1>Hayukimori</h1>
+<h4> Olá, meu nome é hayukimori, sou programadora Python há 2 anos, faço bots, interfaces em PyQT5 e adaptações de aplicativos (as vezes algumas integrações)
 
 Sou presidente do grupo/empresa LunarPy
 </h4>
