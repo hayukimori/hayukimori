@@ -1,8 +1,7 @@
 <div>
 <h1>Hayukimori</h1>
-<h4> Olá, meu nome é hayukimori, sou programadora Python há 2 anos, faço bots, interfaces em PyQT5 e adaptações de aplicativos (as vezes algumas integrações)
-
-Sou presidente do grupo/empresa LunarPy
+<h4> Olá, meu nome é hayukimori, sou programadora Python há 4 anos, faço bots, interfaces em PyQT5 e adaptações de aplicativos (as vezes algumas integrações) quando tenho vontade.
+Atualmente, também procuro recriação de ambientes virtuais em 3D, com foco futuro em VR.
 </h4>
 
 
