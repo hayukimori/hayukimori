@@ -10,10 +10,6 @@
   <a href="https://x.com/hayukimori">
     <img src="https://img.shields.io/badge/hayukimori-black?style=flat-square&logo=X&logoColor=white" alt="Twitter badge" />
   </a>
-  <a href="https://www.linkedin.com/in/seu-perfil/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-
 
 </div>
 
