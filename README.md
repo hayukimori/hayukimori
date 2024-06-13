@@ -37,19 +37,6 @@
 
 <div align="left">
 
-## 📖 Learning now 📖
-
-
-I'm looking to improve my skills every day, with new techniques, currently focusing on:
-
- <p> <b>Game Development</b>: New techniques and mechanics, as well as shaders in the engines I use.</p>
- <p> <b>Web Development</b>: Best practices and new technologies in NextJs and AdonisJs. </p>
-
-
-</div>
-
-<div align="left">
-
 ## 🎮 About Me 🎮
 
 <p align="center"> 
