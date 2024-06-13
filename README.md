@@ -11,11 +11,7 @@ Atualmente, também procuro recriação de ambientes virtuais em 3D, com foco fu
     <img align="center" src="https://img.shields.io/github/stars/hayukimori?color=5865F2&style=social" />
 </p>
 
-<details>
-  <summary>Frameworks</summary>
-  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GDScript-blue?style=for-the-badge&logo=godot-engine&logoColor=white"/>
-</details>
+
 </div>
 
 <div>
@@ -51,4 +47,9 @@ Atualmente, também procuro recriação de ambientes virtuais em 3D, com foco fu
 
 ![DiscordProfileBanner](https://discord.c99.nl/widget/theme-1/691396580875436083.png)
 
+</div>
+<div>
+    <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GDScript-blue?style=for-the-badge&logo=godot-engine&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&logoColor=white"/>
 </div>
