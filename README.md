@@ -52,7 +52,9 @@ In my free time, when I'm not coding, I like to spend my free time playing games
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=afuulz7ed9ld43ovs0lbghgb3&count=1" alt="Spotify  Now Playing" width="300" />
 </div>
 
+---
 
+If you feel like supporting my projects financially, indirectly. My livepix is ​​available: [hayuki](https://livepix.gg/hayuki)
 
 ---
 
