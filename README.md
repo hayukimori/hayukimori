@@ -54,7 +54,7 @@ In my free time, when I'm not coding, I like to spend my free time playing games
 
 ---
 
-If you feel like supporting my projects financially, indirectly. My livepix is ​​available: [hayuki](https://livepix.gg/hayuki)
+If you feel comfortable supporting my projects financially, indirectly. My livepix is ​​available:: [hayuki](https://livepix.gg/hayuki)
 
 ---
 
