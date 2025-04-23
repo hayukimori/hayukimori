@@ -59,6 +59,8 @@ In my free time, when I'm not coding, I like to spend my free time playing games
   ::If you feel comfortable supporting my projects financially, indirectly. My livepix is ​​available (Brazil):: 
   
   [hayuki](https://livepix.gg/hayuki)
+
+  <img src="bitmap.png" width=400px>
   
 
 </div>
