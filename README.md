@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/691396580875436083?hideActivity=true" width="100%">
+  <img src="https://lanyard.cnrad.dev/api/691396580875436083?hideActivity=true" width="80%">
   <br>
 
   <a href="https://x.com/hayukimori" target="_blank">
