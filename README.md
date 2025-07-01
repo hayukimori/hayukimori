@@ -1,7 +1,11 @@
 <p align="center">
   <img src="https://lanyard.cnrad.dev/api/691396580875436083?hideActivity=true" width="60%">
-  <br>
 
+</p>  
+
+---
+
+<p align="center">
   <a href="https://x.com/hayukimori" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-black?&style=for-the-badge&logo=x&logoColor=white" target="_blank">
   </a>
@@ -15,7 +19,6 @@
     <img src="https://img.shields.io/badge/Codeberg-blue?style=for-the-badge&logo=codeberg&logoColor=white" target="_blank">
   </a>
   
-
 </p>
 
 ### 💻 My Work
