@@ -73,7 +73,7 @@ You can send a contribution via [Livepix](https://livepix.gg/hayuki) 🇧🇷
 Or simply follow me here and on social media:
 
 <p align="center">
-  <a href="x.com/hayukimori">
+  <a href="https://x.com/hayukimori">
     <img src="https://github.com/hayukimori.png" width="100px" style="border-radius:50%;" /><br>
   <b>@hayukimori</b>
   </a>
